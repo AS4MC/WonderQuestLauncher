@@ -3,6 +3,7 @@
 
 
 # 🚀 Wonder Quest Launcher
+![Forge 1.20.1](https://img.shields.io/badge/Forge-1.20.1-brightgreen?style=for-the-badge&logo=java)
 ![Java](https://img.shields.io/badge/java-17%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-green)
 

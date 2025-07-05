@@ -7,9 +7,9 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-green)
 ![Forge](https://img.shields.io/badge/forge-1.20.1-orange)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
-![Downloads](https://img.shields.io/badge/downloads-Wonder%20Quest%20Launcher-brightgreen)
 ![Status](https://img.shields.io/badge/status-Stable-success)
-![Built with](https://img.shields.io/badge/built%20with-Forge%20%7C%20Java%20%7C%20Custom%20UI-blueviolet)
+![Support](https://img.shields.io/badge/support-Discord-7289DA?logo=discord)
+
 
 
 Bienvenue sur le dépôt officiel du **Wonder Quest Launcher**, le launcher personnalisé pour rejoindre le serveur Minecraft **Wonder Quest** !  

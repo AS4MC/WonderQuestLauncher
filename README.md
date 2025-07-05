@@ -1,9 +1,5 @@
 ![Bannière Wonder Quest](WQ_Banner_rmv.png)
 
----
-
-![Statut Serveur](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AS4MC/WONDERQUESTLAUNCHER/main/status.json)
-
 
 ---
 
@@ -16,6 +12,8 @@
 ---
 
 # 🚀 Wonder Quest Launcher
+
+![Statut Serveur](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AS4MC/WONDERQUESTLAUNCHER/main/status.json)
 ![License](https://img.shields.io/badge/license-Private-red)
 ![Java](https://img.shields.io/badge/java-17%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-green)

@@ -1,5 +1,9 @@
 ![Bannière Wonder Quest](WQ_Banner_rmv.png)
 
+---
+
+![Statut Serveur](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AS4MC/WONDERQUESTLAUNCHER/main/status.json)
+
 
 ---
 

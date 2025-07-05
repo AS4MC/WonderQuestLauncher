@@ -1,0 +1,38 @@
+name: Check Minecraft Server Status
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # toutes les 5 minutes
+  workflow_dispatch:         # permet de lancer manuellement
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Check Minecraft server status
+      id: status
+      run: |
+        STATUS=$(curl -s https://api.mcsrvstat.us/2/play.wonderquest.mooo.com | jq '.online')
+        echo "online_status=$STATUS" >> $GITHUB_OUTPUT
+
+    - name: Write status JSON
+      run: |
+        if [ "${{ steps.status.outputs.online_status }}" = "true" ]; then
+          echo '{"schemaVersion":1,"label":"Serveur","message":"En ligne","color":"brightgreen"}' > server-status.json
+        else
+          echo '{"schemaVersion":1,"label":"Serveur","message":"Hors ligne","color":"red"}' > server-status.json
+        fi
+
+    - name: Commit status JSON
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add server-status.json
+        git commit -m "Mise à jour du statut du serveur"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

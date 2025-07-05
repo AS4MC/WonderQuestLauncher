@@ -5,7 +5,7 @@
 
 # 🚀 Wonder Quest Launcher
 
-![Serveur Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAS4MC%2FWonderQuestLauncher%2Fmain%2Fstatus.json)
+![Statut du serveur](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AS4MC/WonderQuestLauncher/main/status.json)
 ![License](https://img.shields.io/badge/license-Private-red)
 ![Java](https://img.shields.io/badge/java-17%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-green)

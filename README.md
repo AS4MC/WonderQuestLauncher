@@ -1,6 +1,15 @@
 ![Bannière Wonder Quest](WQ_Banner_rmv.png)
 
 
+---
+
+<p align="center">
+  <a href="https://mcsrvstat.us/server/play.wonderquest.fr">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Serveur&query=%24.online&url=https%3A%2F%2Fapi.mcsrvstat.us%2F2%2Fplay.wonderquest.fr&color=brightgreen,red&style=for-the-badge&logo=minecraft&logoColor=white" alt="Statut du serveur Minecraft Wonder Quest" />
+  </a>
+</p>
+
+---
 
 # 🚀 Wonder Quest Launcher
 ![License](https://img.shields.io/badge/license-Private-red)

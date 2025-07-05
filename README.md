@@ -3,10 +3,10 @@
 
 
 # 🚀 Wonder Quest Launcher
+![License](https://img.shields.io/badge/license-Private-red)
 ![Java](https://img.shields.io/badge/java-17%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-green)
 ![Forge](https://img.shields.io/badge/forge-1.20.1-orange)
-![License](https://img.shields.io/badge/license-Propri%C3%A9taire-red)
 
 
 

@@ -51,7 +51,7 @@ Facile à utiliser, rapide à installer, et conçu pour vous immerger dans l’u
 
 ## 🌐 Serveur Wonder Quest
 
-- **IP** : `play.wonderquest.fr`
+- **IP** : `play.wonderquest.mooo.com`
 - **Version** : `1.20.1` (moddé via le launcher)
 - **Site officiel** : Bientôt...
 - **Discord** : [https://discord.gg/ZdYqBsgaNB](https://discord.gg/ZdYqBsgaNB)

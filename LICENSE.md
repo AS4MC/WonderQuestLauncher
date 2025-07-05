@@ -1,54 +1,24 @@
-# LICENSE – Wonder Quest Launcher
+# Licence Privée
 
-Copyright (c) 2025 Wonder Quest
+Ce logiciel, y compris tous ses fichiers sources, binaires, ressources et éléments associés, est la propriété exclusive de l'équipe de développement de **Wonder Quest**.
 
-Le Wonder Quest Launcher est un logiciel **propriétaire**.  
-**Tous les droits sont réservés.**
+## Droits d'utilisation
 
----
+- Vous êtes autorisé à télécharger et utiliser ce logiciel uniquement pour accéder au serveur **Wonder Quest**.
+- Toute utilisation non autorisée, redistribution, modification, rétro-ingénierie ou revente est strictement interdite.
+- Le logiciel ne peut pas être utilisé à des fins commerciales sans une autorisation écrite préalable de l'équipe Wonder Quest.
 
-## 1. UTILISATION AUTORISÉE
+## Protection
 
-Vous êtes autorisé à :
-- Télécharger et utiliser le launcher pour accéder au serveur Wonder Quest.
+Le contenu de ce dépôt est protégé par le droit d’auteur. Toute violation pourra entraîner des poursuites judiciaires conformément aux lois en vigueur.
 
----
+## Support
 
-## 2. RESTRICTIONS
+Pour toute question relative à l'utilisation de ce launcher :
 
-Il est strictement interdit de :
-- Modifier, désassembler, décompiler, ou faire de l’ingénierie inverse du logiciel.
-- Redistribuer le launcher sous quelque forme que ce soit.
-- Utiliser ce logiciel à des fins commerciales ou non autorisées.
-- Tenter d’en extraire le contenu, les fichiers de configuration ou le code source.
+- 📧 Par email : [contact@wonderquest.fr](mailto:contact@wonderquest.fr)  
+- 🌐 Ou via notre [Discord officiel](https://discord.gg/ZdYqBsgaNB)
 
 ---
 
-## 3. COMPTE MINECRAFT
-
-L'utilisation du launcher nécessite un compte **Minecraft Microsoft Premium** valide.  
-Les comptes non officiels (crackés) ne sont pas pris en charge.
-
----
-
-## 4. MISE À JOUR & COLLECTE DE DONNÉES
-
-Le launcher peut se mettre à jour automatiquement.  
-Aucune donnée personnelle n’est collectée, stockée ou transmise, hormis celles nécessaires à la connexion Microsoft OAuth sécurisée.
-
----
-
-## 5. ABSENCE DE GARANTIE
-
-Ce logiciel est fourni "tel quel", sans garantie d'aucune sorte.  
-En aucun cas l'équipe de Wonder Quest ne pourra être tenue responsable de dommages directs ou indirects résultant de l'utilisation du launcher.
-
----
-
-## 6. RÉSILIATION
-
-Toute violation de cette licence entraînera automatiquement la révocation de votre droit d’utiliser ce logiciel.
-
----
-
-**Contact :** [contact@wonderquest.fr]
+© Wonder Quest – Tous droits réservés.

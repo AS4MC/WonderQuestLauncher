@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "label": "Serveur",
-    "message": "En ligne",
-    "color": "brightgreen"
+    "message": "Hors ligne",
+    "color": "brightred"
   }
   

@@ -1,4 +1,4 @@
-![Bannière Wonder Quest](WQ_Banner_rmv.png)
+![Bannière Wonder Quest](WQBanner_rmv.png)
 
 
 ---
